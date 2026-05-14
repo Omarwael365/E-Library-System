@@ -1,0 +1,13 @@
+{
+    "java.home": "C:\\Program Files\\Java\\jdk-21",
+    "java.jdt.ls.vmargs": "-Djava.library.path=lib",
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": 
+    [
+        "c:\\Users\\aa591\\Documents\\AdvancedProgrammingProject\\lib\\mssql-jdbc-12.10.0.jre11.jar"
+    ],
+    "cSpell.enabled": true
+}
